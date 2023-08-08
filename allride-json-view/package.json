@@ -1,0 +1,12 @@
+{
+  "name": "allride-json-view",
+  "version": "1.0.1",
+  "description": "",
+  "main": "allride-json-view.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
